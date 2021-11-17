@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-10-02T22:12:54" hostname="littlebox" time="0.022">
+  <properties/>
+  <testcase name="testCalcularTotalNota01" classname="Test" time="0.017"/>
+  <testcase name="testCalcularTotalNota02" classname="Test" time="0.0"/>
+  <testcase name="testCalcularTotalNota03" classname="Test" time="0.001"/>
+  <testcase name="testCalcularTotalNota04" classname="Test" time="0.0"/>
+  <testcase name="testCalcularDesconto01" classname="Test" time="0.0"/>
+  <testcase name="testCalcularDesconto02" classname="Test" time="0.0"/>
+  <testcase name="testCalcularDesconto03" classname="Test" time="0.0"/>
+  <testcase name="testCalcularDesconto04" classname="Test" time="0.0"/>
+  <testcase name="testCalcularDesconto05" classname="Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

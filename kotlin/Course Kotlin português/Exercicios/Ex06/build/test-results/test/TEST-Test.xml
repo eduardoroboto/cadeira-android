@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-10-02T14:33:28" hostname="littlebox" time="0.009">
+  <properties/>
+  <testcase name="testSalario300" classname="Test" time="0.002"/>
+  <testcase name="testSalario400" classname="Test" time="0.0"/>
+  <testcase name="testSalario500" classname="Test" time="0.0"/>
+  <testcase name="testSalario600" classname="Test" time="0.0"/>
+  <testcase name="testSalario700" classname="Test" time="0.0"/>
+  <testcase name="testSalario750" classname="Test" time="0.001"/>
+  <testcase name="testSalario800" classname="Test" time="0.0"/>
+  <testcase name="testSalario900" classname="Test" time="0.0"/>
+  <testcase name="testSalario1000" classname="Test" time="0.0"/>
+  <testcase name="testSalario1200" classname="Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

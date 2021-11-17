@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-10-02T12:20:02" hostname="littlebox" time="0.03">
+  <properties/>
+  <testcase name="testContarNumeros01" classname="Test" time="0.029"/>
+  <testcase name="testContarNumeros02" classname="Test" time="0.0"/>
+  <testcase name="testContarNumeros03" classname="Test" time="0.0"/>
+  <testcase name="testContarNumeros04" classname="Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

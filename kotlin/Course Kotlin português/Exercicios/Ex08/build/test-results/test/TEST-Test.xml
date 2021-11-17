@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-10-03T20:22:44" hostname="littlebox" time="0.03">
+  <properties/>
+  <testcase name="testCalculoHorasGratificacao01" classname="Test" time="0.002"/>
+  <testcase name="testCalculoHorasGratificacao02" classname="Test" time="0.0"/>
+  <testcase name="testCalculoHorasGratificacao03" classname="Test" time="0.0"/>
+  <testcase name="testCalculoGratificacao01" classname="Test" time="0.024"/>
+  <testcase name="testCalculoGratificacao02" classname="Test" time="0.0"/>
+  <testcase name="testCalculoGratificacao03" classname="Test" time="0.0"/>
+  <testcase name="testCalculoGratificacao04" classname="Test" time="0.0"/>
+  <testcase name="testCalculoGratificacao05" classname="Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

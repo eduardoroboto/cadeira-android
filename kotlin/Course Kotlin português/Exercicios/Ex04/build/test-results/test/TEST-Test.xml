@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-10-02T12:52:00" hostname="littlebox" time="0.031">
+  <properties/>
+  <testcase name="testSomatorioQuadrado01" classname="Test" time="0.029"/>
+  <testcase name="testSomatorioQuadrado02" classname="Test" time="0.0"/>
+  <testcase name="testSomatorioQuadrado03" classname="Test" time="0.001"/>
+  <testcase name="testSomatorioQuadrado04" classname="Test" time="0.0"/>
+  <testcase name="testSomatorioQuadrado05" classname="Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

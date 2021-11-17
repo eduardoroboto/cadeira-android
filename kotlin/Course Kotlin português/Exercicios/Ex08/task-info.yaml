@@ -1,0 +1,83 @@
+type: edu
+files:
+- name: src/Task.kt
+  visible: true
+  text: |
+    fun main() {
+        val horasExtras = 40
+        val horasFaltas = 20
+
+        val horasGratificacao = calculoHorasGratificação(horasExtras, horasFaltas)
+
+        val gratificação = calculoGratificação(horasGratificacao)
+
+        println("A gratificação será de $gratificação")
+    }
+
+    fun calculoHorasGratificação(horasExtras: Int, horasFaltas: Int): Double {
+        TODO("Exercício ainda não implementado!")
+    }
+
+    fun calculoGratificação(horasGratificacao: Double): Double {
+        TODO("Exercício ainda não implementado!")
+    }
+  learner_created: false
+- name: test/Tests.kt
+  visible: false
+  text: |-
+    import org.junit.Assert
+    import org.junit.Test
+    import kotlin.random.Random
+
+    class Test {
+
+        @Test
+        fun testCalculoHorasGratificacao01() {
+            Assert.assertEquals(20.0, calculoHorasGratificação(20, 0), 0.1)
+        }
+
+        @Test
+        fun testCalculoHorasGratificacao02() {
+            Assert.assertEquals(0.0, calculoHorasGratificação(20, 30), 0.1)
+        }
+
+        @Test
+        fun testCalculoHorasGratificacao03() {
+            Assert.assertEquals(10.0, calculoHorasGratificação(30, 30), 0.1)
+        }
+
+        @Test
+        fun testCalculoGratificacao01() {
+            Assert.assertEquals(500.0, calculoGratificação(Random.nextDouble(40.0, 100.0)), 0.1)
+        }
+
+        @Test
+        fun testCalculoGratificacao02() {
+            Assert.assertEquals(400.0, calculoGratificação(Random.nextDouble(30.0, 39.0)), 0.1)
+        }
+
+        @Test
+        fun testCalculoGratificacao03() {
+            Assert.assertEquals(300.0, calculoGratificação(Random.nextDouble(20.0, 29.0)), 0.1)
+        }
+
+        @Test
+        fun testCalculoGratificacao04() {
+            Assert.assertEquals(200.0, calculoGratificação(Random.nextDouble(10.0, 19.0)), 0.1)
+        }
+
+        @Test
+        fun testCalculoGratificacao05() {
+            Assert.assertEquals(100.0, calculoGratificação(Random.nextDouble( 10.0)), 0.1)
+        }
+
+    }
+  learner_created: false
+- name: ex08-tabela-01.png
+  visible: true
+  learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 03 Oct 2021 20:22:44 UTC
+record: -1

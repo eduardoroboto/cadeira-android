@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercícios_de_Programação_Estruturada.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercícios_de_Programação_Estruturada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex01/Exercícios_de_Programação_Estruturada.Exercicios-Ex01.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex01/Exercícios_de_Programação_Estruturada.Exercicios-Ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex01/Exercícios_de_Programação_Estruturada.Exercicios-Ex01.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex01/Exercícios_de_Programação_Estruturada.Exercicios-Ex01.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex01/Exercícios_de_Programação_Estruturada.Exercicios-Ex01.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex01/Exercícios_de_Programação_Estruturada.Exercicios-Ex01.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex02/Exercícios_de_Programação_Estruturada.Exercicios-Ex02.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex02/Exercícios_de_Programação_Estruturada.Exercicios-Ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex02/Exercícios_de_Programação_Estruturada.Exercicios-Ex02.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex02/Exercícios_de_Programação_Estruturada.Exercicios-Ex02.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex02/Exercícios_de_Programação_Estruturada.Exercicios-Ex02.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex02/Exercícios_de_Programação_Estruturada.Exercicios-Ex02.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex03/Exercícios_de_Programação_Estruturada.Exercicios-Ex03.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex03/Exercícios_de_Programação_Estruturada.Exercicios-Ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex03/Exercícios_de_Programação_Estruturada.Exercicios-Ex03.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex03/Exercícios_de_Programação_Estruturada.Exercicios-Ex03.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex03/Exercícios_de_Programação_Estruturada.Exercicios-Ex03.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex03/Exercícios_de_Programação_Estruturada.Exercicios-Ex03.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex04/Exercícios_de_Programação_Estruturada.Exercicios-Ex04.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex04/Exercícios_de_Programação_Estruturada.Exercicios-Ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex04/Exercícios_de_Programação_Estruturada.Exercicios-Ex04.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex04/Exercícios_de_Programação_Estruturada.Exercicios-Ex04.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex04/Exercícios_de_Programação_Estruturada.Exercicios-Ex04.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex04/Exercícios_de_Programação_Estruturada.Exercicios-Ex04.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex05/Exercícios_de_Programação_Estruturada.Exercicios-Ex05.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex05/Exercícios_de_Programação_Estruturada.Exercicios-Ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex05/Exercícios_de_Programação_Estruturada.Exercicios-Ex05.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex05/Exercícios_de_Programação_Estruturada.Exercicios-Ex05.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex05/Exercícios_de_Programação_Estruturada.Exercicios-Ex05.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex05/Exercícios_de_Programação_Estruturada.Exercicios-Ex05.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex06/Exercícios_de_Programação_Estruturada.Exercicios-Ex06.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex06/Exercícios_de_Programação_Estruturada.Exercicios-Ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex06/Exercícios_de_Programação_Estruturada.Exercicios-Ex06.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex06/Exercícios_de_Programação_Estruturada.Exercicios-Ex06.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex06/Exercícios_de_Programação_Estruturada.Exercicios-Ex06.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex06/Exercícios_de_Programação_Estruturada.Exercicios-Ex06.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex07/Exercícios_de_Programação_Estruturada.Exercicios-Ex07.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex07/Exercícios_de_Programação_Estruturada.Exercicios-Ex07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex07/Exercícios_de_Programação_Estruturada.Exercicios-Ex07.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex07/Exercícios_de_Programação_Estruturada.Exercicios-Ex07.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex07/Exercícios_de_Programação_Estruturada.Exercicios-Ex07.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex07/Exercícios_de_Programação_Estruturada.Exercicios-Ex07.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex08/Exercícios_de_Programação_Estruturada.Exercicios-Ex08.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex08/Exercícios_de_Programação_Estruturada.Exercicios-Ex08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex08/Exercícios_de_Programação_Estruturada.Exercicios-Ex08.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex08/Exercícios_de_Programação_Estruturada.Exercicios-Ex08.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Exercicios/Ex08/Exercícios_de_Programação_Estruturada.Exercicios-Ex08.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Exercicios/Ex08/Exercícios_de_Programação_Estruturada.Exercicios-Ex08.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Exercícios_de_Programação_Estruturada.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Exercícios_de_Programação_Estruturada.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Exercícios_de_Programação_Estruturada.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Exercícios_de_Programação_Estruturada.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Exercícios_de_Programação_Estruturada.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Exercícios_de_Programação_Estruturada.util.test.iml" />
+    </modules>
+  </component>
+</project>

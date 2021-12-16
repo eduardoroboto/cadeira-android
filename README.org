@@ -8,9 +8,10 @@
 This is a list of projects that I did during an Android Course on College
 
 ** Kotlin
-During the beginning of the course, as an introduction, we learn a little Kotlin, to get the feel of the language and start programming in Android Studio.
+During the beginning of the course, as an introduction, we learn some Kotlin, to get the feel of the language and start programming in Android Studio.
 
  + Course Kotlin português
+
     Just some code, and tasks done in Kotlin, using IntelliJ's Course functionality.
 
 ** Android Studio

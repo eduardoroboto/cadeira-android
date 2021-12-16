@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MySavings</string>
+    <string name="password">Password</string>
+    <string name="password_confirmation">Password Confirmation</string>
+    <string name="register">Register</string>
+    <string name="telephone">Telephone</string>
+    <string name="cadastrar_novo_usu_rio">Register a New User</string>
+    <string name="name">Name</string>
+    <string name="not_registered_yet_nclick_here_to_register">Not registered yet? \nClick Here to register</string>
+    <string name="email">Email</string>
+    <string name="enter">Enter</string>
+    <string name="register_mismatch_password_error">"Passwords do not match "</string>
+    <string name="register_empty_error">Empty Field is not allowed</string>
+    <string name="user_or_password_wrong">Wrong User or Password</string>
+    <string name="login_empty_error">Empty Form</string>
+    <string name="already_exist_email">A user account with this email already exists</string>
+    <string name="sucess_user_created">Success, the user was created</string>
+    <string name="new_money_flow">New Money Flow</string>
+    <string name="name_moneyflow">Name</string>
+    <string name="value_moneyflow">Value</string>
+    <string name="register_moneyflow">Register Flow</string>
+</resources>

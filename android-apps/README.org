@@ -1,0 +1,27 @@
+#+TITLE: Projects Kotlin/Android Course
+#+AUTHOR: Eduardo B.N
+#+EMAIL: eduardobarroso@edu.unifor.br
+
+
+* Android Course
+
+This is a list of projects that I did during an Android Course on College
+
+** Kotlin
+During the beginning of the course, as an introduction, we learn a little Kotlin, to get the feel of the language and start programming in Android Studio.
+
+ + Course Kotlin português
+    Just some code, and tasks done in Kotlin, using IntelliJ's Course functionality.
+
+** Android Studio
+Now this is the real deal, Android Studio projects, each of them a working application, some were made just for learning and some were assignments for the course
+
++ Activity
++ ActivityNavigation
++ ColorPicker
++ IntentsComuns
++ MySavings
++ PersonView
++ SistemaSolar
++ TodoList
++ Trabalho2
